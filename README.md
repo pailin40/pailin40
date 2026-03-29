@@ -1,15 +1,14 @@
 # Hi I'm Pailin 😀
-I build and design frontend-focused websites and do UX/UI design in Figma → [check out my portfolio](https://pailinportfolio.framer.website/)
+I'm a Data Engineering student at SAMK, Finland, graduating July 2026.
+I build data pipelines, predictive models, and full-stack applications.
+
 
 📍 Based in Finland
 
+## What I'm working on 🌵
 
-
-## What I'm up to 🌵
-
-- **Learning** - AI/ML, frontend patterns, UX research, design system
-- **Interested in** - Frontend development, UX/UI design, building things people enjoy using
-- **Designing in** - Figma
+- Air quality forecasting (ML thesis project)
+- Exploring enterprise data systems and cloud technologies
 
 
 
