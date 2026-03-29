@@ -1,5 +1,5 @@
 # Hi I'm Pailin 😀
-I'm a Data Engineering student at SAMK, Finland, graduating July 2026.
+I'm a Data Engineering student at SAMK in Finland.
 I build data pipelines, predictive models, and full-stack applications.
 
 
